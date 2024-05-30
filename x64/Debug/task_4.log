@@ -1,0 +1,5 @@
+﻿  uic task_4.ui
+  main.cpp
+  task_4.cpp
+  moc_task_4.cpp
+  task_4.vcxproj -> D:\c++\tst\task_4\x64\Debug\task_4.exe
